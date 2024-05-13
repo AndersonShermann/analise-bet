@@ -1,0 +1,15 @@
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\bin\Debug\net8.0\analise-bet.exe
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\bin\Debug\net8.0\analise-bet.deps.json
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\bin\Debug\net8.0\analise-bet.runtimeconfig.json
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\bin\Debug\net8.0\analise-bet.dll
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\bin\Debug\net8.0\analise-bet.pdb
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.sourcelink.json
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.dll
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\refint\analise-bet.dll
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.pdb
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\analise-bet.genruntimeconfig.cache
+C:\Users\ander\Documents\GitHub\analise-bet\analise-bet\analise-bet\obj\Debug\net8.0\ref\analise-bet.dll
