@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "analise-bet", "analise-bet\analise-bet.csproj", "{924E2823-8741-4C20-BCB1-D69BA95B44BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924E2823-8741-4C20-BCB1-D69BA95B44BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924E2823-8741-4C20-BCB1-D69BA95B44BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924E2823-8741-4C20-BCB1-D69BA95B44BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924E2823-8741-4C20-BCB1-D69BA95B44BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476F2966-1960-44C2-AA7B-7743EFE8E3AF}
+	EndGlobalSection
+EndGlobal
